@@ -262,7 +262,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 114849579796729654, guid: f2704af0f117afa429a312ca2134bce0,
+          type: 2}
         m_MethodName: QuitRequest
         m_Mode: 1
         m_Arguments:
@@ -737,7 +738,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 114849579796729654, guid: f2704af0f117afa429a312ca2134bce0,
+          type: 2}
         m_MethodName: LoadNextLevel
         m_Mode: 1
         m_Arguments:
