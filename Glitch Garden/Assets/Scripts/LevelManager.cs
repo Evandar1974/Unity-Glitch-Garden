@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour {
     public float autoLoadafter;
+  
     private void Start()
     {
         Invoke("LoadNextLevel", autoLoadafter);
@@ -26,5 +27,11 @@ public class LevelManager : MonoBehaviour {
         int currentSceenIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(currentSceenIndex + 1);
     }
+
+ 
+
+
+
+
 
 }
