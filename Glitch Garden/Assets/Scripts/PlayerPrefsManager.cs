@@ -25,16 +25,6 @@ public class PlayerPrefsManager : MonoBehaviour {
         return PlayerPrefs.GetFloat(MASTER_VOLUME_KEY);
     }
 
-    public static void SetDificulty(string dificulty)
-    {
-        PlayerPrefs.SetString(DIFFICULTY_KEY, dificulty);
-    }
-
-    public static string GetDificulty()
-    {
-        return PlayerPrefs.GetString(DIFFICULTY_KEY);
-    }
-
     public static void UnlockLevel(int level)
     {
         if(level <= SceneManager.sceneCountInBuildSettings -1)
@@ -62,7 +52,7 @@ public class PlayerPrefsManager : MonoBehaviour {
 
     public static void SetDifficulty(float volume)
     {
-        if (volume >= 0f && volume <= 1f)
+        if (volume >= 1f && volume <= 3f)
         {
             PlayerPrefs.SetFloat(DIFFICULTY_KEY, volume);
         }
