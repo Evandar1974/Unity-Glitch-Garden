@@ -1,0 +1,2039 @@
+fileFormatVersion: 2
+guid: 8f64e72fea3ee9c468807a1a441ed7b6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mmz___dynamo_by_dark_ax_0
+    21300002: mmz___dynamo_by_dark_ax_1
+    21300004: mmz___dynamo_by_dark_ax_2
+    21300006: mmz___dynamo_by_dark_ax_3
+    21300008: mmz___dynamo_by_dark_ax_4
+    21300010: mmz___dynamo_by_dark_ax_5
+    21300012: mmz___dynamo_by_dark_ax_6
+    21300014: mmz___dynamo_by_dark_ax_7
+    21300016: mmz___dynamo_by_dark_ax_8
+    21300018: mmz___dynamo_by_dark_ax_9
+    21300020: mmz___dynamo_by_dark_ax_10
+    21300022: mmz___dynamo_by_dark_ax_11
+    21300024: mmz___dynamo_by_dark_ax_12
+    21300026: mmz___dynamo_by_dark_ax_13
+    21300028: mmz___dynamo_by_dark_ax_14
+    21300030: mmz___dynamo_by_dark_ax_15
+    21300032: mmz___dynamo_by_dark_ax_16
+    21300034: mmz___dynamo_by_dark_ax_17
+    21300036: mmz___dynamo_by_dark_ax_18
+    21300038: mmz___dynamo_by_dark_ax_19
+    21300040: mmz___dynamo_by_dark_ax_20
+    21300042: mmz___dynamo_by_dark_ax_21
+    21300044: mmz___dynamo_by_dark_ax_22
+    21300046: mmz___dynamo_by_dark_ax_23
+    21300048: mmz___dynamo_by_dark_ax_24
+    21300050: mmz___dynamo_by_dark_ax_25
+    21300052: mmz___dynamo_by_dark_ax_26
+    21300054: mmz___dynamo_by_dark_ax_27
+    21300056: mmz___dynamo_by_dark_ax_28
+    21300058: mmz___dynamo_by_dark_ax_29
+    21300060: mmz___dynamo_by_dark_ax_30
+    21300062: mmz___dynamo_by_dark_ax_31
+    21300064: mmz___dynamo_by_dark_ax_32
+    21300066: mmz___dynamo_by_dark_ax_33
+    21300068: mmz___dynamo_by_dark_ax_34
+    21300070: mmz___dynamo_by_dark_ax_35
+    21300072: mmz___dynamo_by_dark_ax_36
+    21300074: mmz___dynamo_by_dark_ax_37
+    21300076: mmz___dynamo_by_dark_ax_38
+    21300078: mmz___dynamo_by_dark_ax_39
+    21300080: mmz___dynamo_by_dark_ax_40
+    21300082: mmz___dynamo_by_dark_ax_41
+    21300084: mmz___dynamo_by_dark_ax_42
+    21300086: mmz___dynamo_by_dark_ax_43
+    21300088: mmz___dynamo_by_dark_ax_44
+    21300090: mmz___dynamo_by_dark_ax_45
+    21300092: mmz___dynamo_by_dark_ax_46
+    21300094: mmz___dynamo_by_dark_ax_47
+    21300096: mmz___dynamo_by_dark_ax_48
+    21300098: mmz___dynamo_by_dark_ax_49
+    21300100: mmz___dynamo_by_dark_ax_50
+    21300102: mmz___dynamo_by_dark_ax_51
+    21300104: mmz___dynamo_by_dark_ax_52
+    21300106: mmz___dynamo_by_dark_ax_53
+    21300108: mmz___dynamo_by_dark_ax_54
+    21300110: mmz___dynamo_by_dark_ax_55
+    21300112: mmz___dynamo_by_dark_ax_56
+    21300114: mmz___dynamo_by_dark_ax_57
+    21300116: mmz___dynamo_by_dark_ax_58
+    21300118: mmz___dynamo_by_dark_ax_59
+    21300120: mmz___dynamo_by_dark_ax_60
+    21300122: mmz___dynamo_by_dark_ax_61
+    21300124: mmz___dynamo_by_dark_ax_62
+    21300126: mmz___dynamo_by_dark_ax_63
+    21300128: mmz___dynamo_by_dark_ax_64
+    21300130: mmz___dynamo_by_dark_ax_65
+    21300132: mmz___dynamo_by_dark_ax_66
+    21300134: mmz___dynamo_by_dark_ax_67
+    21300136: mmz___dynamo_by_dark_ax_68
+    21300138: mmz___dynamo_by_dark_ax_69
+    21300140: mmz___dynamo_by_dark_ax_70
+    21300142: mmz___dynamo_by_dark_ax_71
+    21300144: mmz___dynamo_by_dark_ax_72
+    21300146: mmz___dynamo_by_dark_ax_73
+    21300148: mmz___dynamo_by_dark_ax_74
+    21300150: mmz___dynamo_by_dark_ax_75
+    21300152: mmz___dynamo_by_dark_ax_76
+    21300154: mmz___dynamo_by_dark_ax_77
+    21300156: mmz___dynamo_by_dark_ax_78
+    21300158: mmz___dynamo_by_dark_ax_79
+    21300160: mmz___dynamo_by_dark_ax_80
+    21300162: mmz___dynamo_by_dark_ax_81
+    21300164: mmz___dynamo_by_dark_ax_82
+    21300166: mmz___dynamo_by_dark_ax_83
+    21300168: mmz___dynamo_by_dark_ax_84
+    21300170: mmz___dynamo_by_dark_ax_85
+    21300172: mmz___dynamo_by_dark_ax_86
+    21300174: mmz___dynamo_by_dark_ax_87
+    21300176: mmz___dynamo_by_dark_ax_88
+    21300178: mmz___dynamo_by_dark_ax_89
+    21300180: mmz___dynamo_by_dark_ax_90
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 916
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ce29d9e14a22249adfc3929e289d89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 916
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce8bfea0aaff5d4fa33bc95a1457400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 916
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2ad5575f2d60b46813e8a6207be043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 916
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8f9baae9f9bc94d9997bf858f57e9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 915
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6de6b452ca900e44982e64e9b4090ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 915
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658a0682f9d35bc43ade171f3231d6ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 890
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b76ff74fef8cbe469f177d582122ea2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 890
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e984b033cce8e846b3143351ea59f66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 890
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191d1e1ac0e72dc418063348fffdccbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 893
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59abbb5af0871454480d5ecf8b29159d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 893
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f37e5ac6c48c634bb7559a227506ae0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 895
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa350f7cd4761234c99aa957e0c713f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 889
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4efe5b50fd65449a0850a92f109456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 895
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d780d93987d430a4f83fce0466ae44fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 876
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0115b011c5205da488bb3b234bb50a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 876
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d17ea7e7b37b84aae16b612a0a2e4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 876
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1446153499d98c6409669cfd96fca18c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 876
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fb215fede5a4843b8224a78bd99958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 854
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3131c99097df9b44aef2bf2dea87e2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 854
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af56901e2ca24b749a895229f8ff0cff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 854
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f513380baf37b324f8db86b4e4b3643a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 854
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8632210198902a94597960d4a3111c8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 815
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76fa03be07587c448abc563536df2be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 816
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20542d0226222da4595b6e7febfacc13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 815
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19ceb3a95afaec449fdf88e7560c45c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 816
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1028e794dd52f549b8c0723efc2b325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 784
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5864fc4ed51a9b54c9ad47044ec030b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 784
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3654d66d6b72c94093518de77890c98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 783
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a98e170a8b05f44ca29eed91f56e750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 788
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f875f75f9537c76469fa9b7a34dda628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_30
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 790
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d39303d58595d4c9797be9a5e848a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 786
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856803a586b5dc48a718cf03b539cab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 791
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbdcd1ac54e6d1448224e220e7f9aca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_33
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 763
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa2b32d49d0c3449ba47103de46ccc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 764
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c639ed98f7bda0249b804bf71e652f40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_35
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 763
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23484640bf0717342ae6072c0d1744a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 770
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eb5171f5eb8cc49a1718a13b67899c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_37
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 768
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805544e21309f9b4392756d4ca59501b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 771
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2257e7009889840489e84acdd5bcf28c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_39
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 769
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d5732a7ffbe764c8a1aca7aaa7c443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 748
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657d66061cfa2684581a8e35976455ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 747
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c61ab9cf844c047890a50177d2af98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 746
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9560f887a4653e48aab470acd3407a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 747
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1d025fb137d0f47a92a17dd32f13cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_44
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 746
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf34d4a9ddde1f46849216d5286f271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 746
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1b5d7c1e9497340b9bd9425f292217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 673
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004dd1a837188ce4e94fa446d4f4baa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 673
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d158c81e2c301f642bfa767353083f6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 617
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e03b4643110bb44888df0bbeade48a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 616
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03ad0eb15e58b147a08157fcd079757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 615
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80391900086b93e4c8986622e9c8b6f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_51
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 615
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e679bad35dcfc441b02c6d469a2222d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_52
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 615
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963354e4c927c3e42b19b632230253d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 614
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f9c266b2a4eb748af1cf7c0b8314bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 544
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29fa310c9aabfe4d89c6919b8b34660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e8014fff9178c49a3a6e5ea7a8decf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_56
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 544
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a1c8c3cb6176f40a1ed27d6aab5a4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 542
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d887abf0d25b6440964d902706fb177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 542
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472b590ba330a3640ae137ba055f649b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_59
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 542
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855f86f980d118440bd2d16913c3156b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 476
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0d636b2b7848d48a8f4d4c19c7c6be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_61
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 475
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea0033b02ae17a4192887f1c2c05f48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 479
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0630d7d244e5f294ca193427aa3f94ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 412
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a1541c20926da4d80adf5be8192d5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_64
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 411
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93097faf7228af46b02223327dc0647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_65
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 408
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a210f0feccadb44c92f15141597e1fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_66
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 409
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0de2128f3edea4c94a259bda7ac1a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_67
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 429
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45003ccd4b47faa42a22194db06bebd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_68
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 427
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baec881d5975c641bb004052cf43659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_69
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 329
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec149f3c834dc843ad5b2ded4df263c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_70
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 328
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e55120389a6e246910ff41f1517409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_71
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 326
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cead8b6baf754347bebe18a598dbf04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_72
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 324
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a086f479a48b8884a806d610583aff96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_73
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 326
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d01223cd713db47ae685b0c26e502f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_74
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 322
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47423d31f03c20940bbdf97e56006380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 124
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b2cfc0371b52741b21699cbb02e391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_76
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 243
+        width: 124
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193639756f5a561468ad7bb3f749dc40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_77
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 245
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a59dce0f5af47a4f81e26caaea86a64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_78
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 245
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6252a267af0bb22459efa7c997c9fd95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_79
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 244
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b04f35ee037dc42ad5ee2b5b2c8a51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 162
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b9c01136d93ef46acb4f2cdd3d9668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_81
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 162
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67425965473c8c340bd81bff26714215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_82
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 162
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd93edf91e851e44f81e2f6108356ff5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_83
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 162
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4539ae8b37918408fd09be1bd70199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_84
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 93
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fa9620265c1a14ab43e04ef84b4dc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_85
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 72
+        width: 118
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560ba746337e687469bfead58eea9f10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 99
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c86d7641c6465428d45552040e4a10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_87
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117776c8f9c6c1242b0cccd7cccf6e04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_88
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc8fd74c38c73044bf983f75448b106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_89
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608aef8daab84de40826734711a2c4aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz___dynamo_by_dark_ax_90
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ef4f9d02a707f48b45e5bc1abb8ca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aad517ae4ca936342892acc7d27b77fd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
