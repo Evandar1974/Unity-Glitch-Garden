@@ -12,6 +12,7 @@ public class LevelManager : MonoBehaviour {
         {
             Invoke("LoadNextLevel", autoLoadafter);
         }
+
     }
     public void LoadLevel(string name)
     {
