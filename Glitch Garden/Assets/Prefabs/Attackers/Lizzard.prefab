@@ -38,6 +38,9 @@ GameObject:
   - component: {fileID: 95296983428855386}
   - component: {fileID: 114892211484619652}
   - component: {fileID: 61112085548484728}
+  - component: {fileID: 114257250111007728}
+  - component: {fileID: 50230437554342704}
+  - component: {fileID: 114940154105032376}
   m_Layer: 0
   m_Name: Lizzard
   m_TagString: Untagged
@@ -65,13 +68,33 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1671312367902992}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1, y: 3, z: -6}
+  m_LocalPosition: {x: 9, y: 2, z: -6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4063048066224254}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &50230437554342704
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1671312367902992}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!61 &61112085548484728
 BoxCollider2D:
   m_ObjectHideFlags: 1
@@ -115,6 +138,17 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114257250111007728
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1671312367902992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47c1eafcf869d1147a32fc8ba95e69bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114892211484619652
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -126,7 +160,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d743339c5f40ff2469eb03cacc5171af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkSpeed: 0.8
+--- !u!114 &114940154105032376
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1671312367902992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 852d5d7d2f99968448550d1b9fd6828a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
 --- !u!212 &212267307057285678
 SpriteRenderer:
   m_ObjectHideFlags: 1

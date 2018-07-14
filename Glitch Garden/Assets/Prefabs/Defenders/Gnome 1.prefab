@@ -54,6 +54,8 @@ GameObject:
   - component: {fileID: 4218337549377612}
   - component: {fileID: 95854473855506176}
   - component: {fileID: 61365983075300500}
+  - component: {fileID: 114686008733497414}
+  - component: {fileID: 114218821975488380}
   m_Layer: 0
   m_Name: Gnome 1
   m_TagString: Untagged
@@ -170,6 +172,29 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114218821975488380
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1843632720311992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 852d5d7d2f99968448550d1b9fd6828a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
+--- !u!114 &114686008733497414
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1843632720311992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b605a02f5b9898f41a9c461f34a9cd9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &212023271962110368
 SpriteRenderer:
   m_ObjectHideFlags: 1
