@@ -49,8 +49,6 @@ public class Attacker : MonoBehaviour {
     public void Attack(GameObject obj)
     {
         currentTarget = obj;
-       
-
     }
 
 
