@@ -12,11 +12,13 @@ public class Shooter : MonoBehaviour {
     private GameObject projectileParent;
     private Animator anim;
     private Defender defender;
-
-
+    private Spawner myLaneSpawner;
+    private Spawner[] spawners;
     // Use this for initialization
     void Start()
     {
+        spawners = FindObjectsOfType<Spawner>();
+        SetMyLaneSpawner();
         projectileParent = GameObject.Find("Projectiles");
         if(!projectileParent)
         {
@@ -30,9 +32,13 @@ public class Shooter : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-        if (anim.GetBool("isAttacking") == false)
+        if (IsAttackerAheadInLane())
         {
             anim.SetBool("isFiring", true);
+        }
+        else
+        {
+            anim.SetBool("isFiring", false);
         }
         if (anim.GetBool("isFiring") == true)
         {
@@ -42,6 +48,35 @@ public class Shooter : MonoBehaviour {
                 Fire();
             }
         }
+    }
+
+    void SetMyLaneSpawner()
+    {
+       
+        foreach(Spawner spawner in spawners)
+        {
+            if(spawner.transform.position.y == this.transform.position.y)
+            {
+                myLaneSpawner = spawner;
+            }
+        }
+    }
+
+    bool IsAttackerAheadInLane()
+    {
+        if(myLaneSpawner.transform.childCount <=0)
+        {
+            return false;
+        }
+        foreach(Transform attacker in myLaneSpawner.transform)
+        {
+            if(attacker.transform.position.x > this.transform.position.x)
+            {
+                return true;
+            }
+        }
+        return false;
+        
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 [RequireComponent(typeof (Rigidbody2D))]
-public class Attacker : MonoBehaviour {
+public class Attacker : MonoBehaviour
+{
+    [Tooltip("Average number of seconds between appearances.")]
+    public float seenEverySeconds;
     private Animator anim;
-    private float currentSpeed;
+    private float currentSpeed; 
     private GameObject currentTarget;
 
     // Use this for initialization

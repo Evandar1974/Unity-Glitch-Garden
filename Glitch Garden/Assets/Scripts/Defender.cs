@@ -2,14 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D))]
-public class Defender : MonoBehaviour {
+public class Defender : MonoBehaviour
+{
     private Animator anim;
     private float currentSpeed;
     private GameObject currentTarget;
+    private StarDisplay starDisplay;
     // Use this for initialization
     void Start ()
     {
         anim = GetComponent<Animator>();
+        starDisplay = GameObject.FindObjectOfType<StarDisplay>();
     }
 	
 	// Update is called once per frame
@@ -43,5 +46,10 @@ public class Defender : MonoBehaviour {
     {
         Debug.Log(obj);
         currentTarget = obj;
+    }
+
+    public void AddStars(int stars)
+    {
+        starDisplay.AddStars(stars);
     }
 }
