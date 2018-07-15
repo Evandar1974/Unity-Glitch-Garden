@@ -4,6 +4,7 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D))]
 public class Defender : MonoBehaviour
 {
+    public int starCost = 100;
     private Animator anim;
     private float currentSpeed;
     private GameObject currentTarget;
@@ -51,5 +52,10 @@ public class Defender : MonoBehaviour
     public void AddStars(int stars)
     {
         starDisplay.AddStars(stars);
+    }
+
+    public int GetCost()
+    {
+        return starCost;
     }
 }
