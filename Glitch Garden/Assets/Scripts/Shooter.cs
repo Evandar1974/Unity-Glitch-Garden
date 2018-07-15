@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 [RequireComponent(typeof(Defender))]
-public class Gnome : MonoBehaviour {
+public class Shooter : MonoBehaviour {
 
     public Projectile projectile;
+   
+    public GameObject gun;
     public float rateOfFire = 1f;
 
     private Animator anim;
@@ -53,7 +55,8 @@ public class Gnome : MonoBehaviour {
     private void Fire()
     {
         //add sound effect
-        Instantiate<Projectile>(projectile, transform.position, Quaternion.identity);
+        
+        Instantiate<Projectile>(projectile, gun.transform.position, Quaternion.identity);
     }
 }
 
