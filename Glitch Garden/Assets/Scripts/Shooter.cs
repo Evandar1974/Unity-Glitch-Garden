@@ -9,6 +9,7 @@ public class Shooter : MonoBehaviour {
     public GameObject gun;
     public float rateOfFire = 1f;
 
+    private GameObject projectileParent;
     private Animator anim;
     private Defender defender;
 
@@ -16,6 +17,11 @@ public class Shooter : MonoBehaviour {
     // Use this for initialization
     void Start()
     {
+        projectileParent = GameObject.Find("Projectiles");
+        if(!projectileParent)
+        {
+            projectileParent = new GameObject("Projectiles");
+        }
         anim = GetComponent<Animator>();
         defender = GetComponent<Defender>();
         anim.SetBool("isFiring", true);
@@ -56,7 +62,8 @@ public class Shooter : MonoBehaviour {
     {
         //add sound effect
         
-        Instantiate<Projectile>(projectile, gun.transform.position, Quaternion.identity);
+        Projectile myProjectile = Instantiate<Projectile>(projectile, gun.transform.position, Quaternion.identity);
+        myProjectile.transform.parent = projectileParent.transform;
     }
 }
 
